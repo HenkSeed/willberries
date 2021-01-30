@@ -1,4 +1,3 @@
-
 # willberries
 First page of the Willberries Shop (By the Intensive of "GLO Academy").
 Учебный проект в Glo Academy 
