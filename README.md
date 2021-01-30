@@ -2,10 +2,10 @@
 First page of the Willberries Shop (By the Intensive of "GLO Academy").
 Учебный проект в Glo Academy 
 Проект выполнил Игорь Семёнов
-В проекте использовались языки:
+## В проекте использовались языки:
 - HTML
 - CSS
 - JavaScript
-Библиотеки:
+### Библиотеки:
 Bootstrap v5
 Swiper Slider JS
